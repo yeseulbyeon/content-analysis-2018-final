@@ -1,0 +1,11 @@
+agent.num	agent.name
+1	"Roosevelt"
+2	"Obama"
+3	"Trump"
+4	"Ford"
+5	"Clinton"
+6	"Bush"
+7	"Carter"
+8	"Reagan"
+9	"Nixon"
+10	"Kennedy"
